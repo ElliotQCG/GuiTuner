@@ -6,11 +6,11 @@ Repositório do projeto desenvolvido na disciplina de Fundamentos de Programaç�
 
 O aplicativo foi inicialmente planejado para ser um afinador de guitarra, mas meu orientador me disse que seria muito complexo para alguém tão inexperiente quanto eu. Portanto, ele sugeriu que eu apenas simulasse um afinador de guitarra. O aplicativo é projetado para o usuário selecionar uma corda de guitarra, pressionar o botão "começar a afinar" para o aplicativo simular a "escuta", e o usuário receber o feedback se deve afiná-la para baixo, afiná-la para cima ou se a guitarra está afinada.
 
-# Apresentação do aplicativo (apenas para internal tester)
+# Apresentação do aplicativo
 
 Link para o vídeo da demonstração: https://drive.google.com/file/d/1pMo98rZM6bsrXR-JyMmOca5FiVRFV2sl/view?usp=sharing
 
-# Play Store
+# Play Store (apenas para internal tester)
 
 Link para a página do aplicativo na Play Store: 
 [https://play.google.com/apps/test/com.mydomain.guitar_tuning_app/1](https://play.google.com/apps/internaltest/4701682307219902164)
