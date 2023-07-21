@@ -2,7 +2,11 @@
 Repositório do projeto desenvolvido na disciplina de Fundamentos de Programação Aplicada do Programa de Pós-Graduação em Informática Aplicada da Universidade Federal Rural de Pernambuco.
 É a minha primeira experiência com programação.
 
-# Apresentação do aplicativo
+# Funcionalidade
+
+O aplicativo foi inicialmente planejado para ser um afinador de guitarra, mas meu orientador me disse que seria muito complexo para alguém tão inexperiente quanto eu. Portanto, ele sugeriu que eu apenas simulasse um afinador de guitarra. O aplicativo é projetado para o usuário selecionar uma corda de guitarra, pressionar o botão "começar a afinar" para o aplicativo simular a "escuta", e o usuário receber o feedback se deve afiná-la para baixo, afiná-la para cima ou se a guitarra está afinada.
+
+# Apresentação do aplicativo (apenas para internal tester)
 
 Link para o vídeo da demonstração: https://drive.google.com/file/d/1pMo98rZM6bsrXR-JyMmOca5FiVRFV2sl/view?usp=sharing
 
@@ -24,3 +28,7 @@ Link para a página do aplicativo na Play Store:
 # Tela principal enquanto está escutando/simulando
 
 ![WhatsApp Image 2023-07-20 at 21 14 46](https://github.com/ElliotQCG/GuiTuner/assets/129893887/02b74fd6-cd13-4b70-baf4-e9d28e1fe8be)
+
+# Widget Tree
+
+![GuiTuner Widget Tree](https://github.com/ElliotQCG/GuiTuner/assets/129893887/b66806d0-d430-43f4-9b08-bcf3b4b80c26)
