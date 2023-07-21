@@ -9,7 +9,7 @@ Link para o vídeo da demonstração:
 # Play Store
 
 Link para a página do aplicativo na Play Store: 
-https://play.google.com/apps/test/com.mydomain.guitar_tuning_app/1
+[https://play.google.com/apps/test/com.mydomain.guitar_tuning_app/1](https://play.google.com/apps/internaltest/4701682307219902164)
 
 # Tela principal sem estar escutando/simulando
 
