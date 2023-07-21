@@ -1,16 +1,21 @@
-# guitar_tuning_app
+# GuiTuner
+Repositório do projeto desenvolvido na disciplina de Fundamentos de Programação Aplicada do Programa de Pós-Graduação em Informática Aplicada da Universidade Federal Rural de Pernambuco.
+É a minha primeira experiência com programação.
 
-A new Flutter project.
+# Apresentação do aplicativo
 
-## Getting Started
+Link para o vídeo da demonstração: 
 
-This project is a starting point for a Flutter application.
+# Play Store
 
-A few resources to get you started if this is your first Flutter project:
+Link para a página do aplicativo na Play Store: 
+https://play.google.com/apps/test/com.mydomain.guitar_tuning_app/1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tela principal sem estar escutando/simulando
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-07-20 at 21 14 46 (1)](https://github.com/ElliotQCG/GuiTuner/assets/129893887/39970d78-5577-42ec-9c0f-4e0b7746208f)
+
+
+# Tela principal enquanto está escutando/simulando
+
+![WhatsApp Image 2023-07-20 at 21 14 46](https://github.com/ElliotQCG/GuiTuner/assets/129893887/02b74fd6-cd13-4b70-baf4-e9d28e1fe8be)
